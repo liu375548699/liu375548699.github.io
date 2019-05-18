@@ -1832,7 +1832,7 @@ img:hover {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #20ffaf;
+  background: #5be708;
 }
 .feed-link,
 .chat {
@@ -2845,6 +2845,6 @@ ul.breadcrumb li+li:last-child {
   text-overflow: ellipsis;
 }
 body {
-  background: url("https://raw.githubusercontent.com/xiao222042/image/master/post-head.jpg");
+  background: url("https://raw.githubusercontent.com/liu375548699/images/master/onePiece.jpg");
   background-attachment: fixed;
 }
