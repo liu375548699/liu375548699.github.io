@@ -1765,7 +1765,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #490efe;
+  background: #ffe514;
 }
 .feed-link,
 .chat {
@@ -2778,6 +2778,6 @@ ul.breadcrumb li+li:last-child {
   text-overflow: ellipsis;
 }
 body {
-  background: url("D:git_bloghexo_buildthemeshexo-theme-next-mastersourceimagesonePiece.jpg");
+  background: url("D:\git_blog\hexo_build\themes\hexo-theme-next-master\source\images\onePiece.jpg");
   background-attachment: fixed;
 }
