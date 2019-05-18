@@ -1832,7 +1832,7 @@ img:hover {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #5be708;
+  background: #8fc3f2;
 }
 .feed-link,
 .chat {
@@ -2846,5 +2846,15 @@ ul.breadcrumb li+li:last-child {
 }
 body {
   background: url("https://raw.githubusercontent.com/liu375548699/images/master/onePiece.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
   background-attachment: fixed;
+  background-position: 50% 50%;
+}
+.main-inner {
+  background: #fff;
+  opacity: 0.8;
+}
+.header-inner {
+  opacity: 0.8;
 }
